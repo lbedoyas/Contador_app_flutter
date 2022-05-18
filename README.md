@@ -1,6 +1,8 @@
 # contador_app
 
-A new Flutter project.
+Hola. Este proyecto corresponde a un ejemplos de states y su aplicacion en flutter.
+
+Para ejecutar ubicate en la raiz y ejecuta flutter run.
 
 ## Getting Started
 
